@@ -29,6 +29,8 @@ echo"<br>";
 echo $var1+$var2
 
     ?>
+    <?php
+    ?>
 
 </body>
 </html>
