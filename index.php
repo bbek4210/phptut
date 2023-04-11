@@ -16,7 +16,7 @@ $var1=45;
 $var2=5;
 echo $var1;
 echo $var2;
-echo$var1+$var2
+echo$var1+$var2;
 
 
 
