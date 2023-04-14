@@ -77,6 +77,9 @@ echo var_dump($vara);
 define('pi',3.14);
 echo pi;
 ?>
+
+
+
 </body>
 
 </html>
