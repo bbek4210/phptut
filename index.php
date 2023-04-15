@@ -17,6 +17,3 @@ $email=$_POST['email'];
 $phone=$_POST['phone'];
 $other=$_POST['other'];
 
-
-$sql="INSERT INTO `travel` (`name`, `age`, `gender`, `email`, `phone`, `other`, `date`) VALUES ('bibek', '21', 'male', 'bibej@gmail.com', '9814422779', 'hhh', current_timestamp());"
-?>
